@@ -14,7 +14,7 @@ if (isset($_GET['lang'])) {
         $_SESSION['lang'] = $lang;
     }
     header("Location: " . strtok($_SERVER["REQUEST_URI"], '?'));
-    exit();
+  
 }
 
 
