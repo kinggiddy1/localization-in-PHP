@@ -13,7 +13,6 @@ if (isset($_GET['lang'])) {
     if (in_array($lang, ['en', 'fr'])) {
         $_SESSION['lang'] = $lang;
     }
-    header("Location: " . strtok($_SERVER["REQUEST_URI"], '?'));
   
 }
 
