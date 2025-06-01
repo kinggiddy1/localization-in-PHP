@@ -17,3 +17,4 @@ return [
     'book_room' => 'Réserver une chambre',
     'book_conference' => 'Réserver une conférence',
 ];
+ 
