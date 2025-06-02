@@ -16,4 +16,4 @@ return [
     'choose_booking' => 'Choisissez le type de réservation',
     'book_room' => 'Réserver une chambre',
     'book_conference' => 'Réserver une conférence',
-];    
+];   
